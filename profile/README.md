@@ -14,6 +14,8 @@ offline governance, post-quantum identity, and human continuity beyond networks.
 This GitHub organization is home to ZorroChain’s sovereign modules, relay tools, and coordination logic.  
 The stack is modular, mesh-operable, and built under an open civic license (MPL-2.0).
 
+Also in extremely early test/scaffolding/proto in many/most. 
+
 ---
 
 ## 🧱 Core Principles
